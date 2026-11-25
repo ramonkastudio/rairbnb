@@ -1,0 +1,11 @@
+# Rust build artifacts
+/target/
+chromedriver
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
